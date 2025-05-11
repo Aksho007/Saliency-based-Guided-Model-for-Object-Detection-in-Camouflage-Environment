@@ -13,12 +13,11 @@ Saliency-based-guided-model-for-object-Detection-in-camouflage-environment/
 │   ├── Training_Rcnn.ipynb
 │   └── YOLO_with_and_without_saliency_CAMO.ipynb                                                                
 ├── docs/                           
-│   └── final_project_design.jpg        
-├── demos/                          
-│   └── demo.mp4                   
+│   └── final_project_design.jpg                        
 ├── deliverables/                
 │   ├── project_proposal.pdf
 │   ├── project_report.pdf
 │   └── project_presentation.pptx
 ├── README.md                       
-├── INSTALLATION.md                              
+├── INSTALLATION.txt                       
+├── Video_link.txt
