@@ -1,0 +1,32 @@
+camouflage-object-detection/
+├── .github/                        
+│   ├── ISSUE_TEMPLATE/            
+│   └── workflows/                 
+├── code_files/                     
+│   ├── CNN_Transferlearning.ipynb
+│   ├── Fasterrcnn_comparsion_CAMO.ipynb
+│   ├── Fasterrcnn_comparsion_PASCALVOC.ipynb
+│   ├── fasterrcnn_vgg16_diff-Learningrates.ipynb
+│   ├── fasterrcnn_with_saliency_CAMO.ipynb
+│   ├── fasterrcnn_with_saliency_PASCALVOC.ipynb
+│   ├── fasterrcnn_without_saliency_CAMO.ipynb
+│   ├── fasterrcnn_without_saliency_PASCALVOC.ipynb
+│   ├── SSD_with_saliency_CAMO.ipynb
+│   ├── SSD_without_saliency_CAMO.ipynb
+│   ├── Training_Rcnn.ipynb
+│   └── YOLO_with_and_without_saliency_CAMO.ipynb
+├── data/                           
+├── src/                            
+│   └── utils/                     
+├── tests/                          
+├── docs/                           
+│   └── design_diagrams.md         
+├── demos/                          
+│   └── demo.mp4                   
+├── deliverables/                   # final deliverables
+│   ├── project_proposal.pdf
+│   ├── project_report.pdf
+│   └── project_presentation.pptx
+├── README.md                       
+├── INSTALLATION.md                 
+└── requirements.txt                
